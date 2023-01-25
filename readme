@@ -1,0 +1,4 @@
+Befehle:
+
+npm i
+ts-node .\marlonsApp.ts
