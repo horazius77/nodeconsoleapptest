@@ -28,4 +28,7 @@ while (eingabe !== "q") {
     if (eingabe == "+") {
         add();
     }
+    if (eingabe == "-" && zaehler > 0) {
+        minus();
+    }
 }
